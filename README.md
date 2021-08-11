@@ -4,6 +4,7 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#gear-como-iniciar">Como iniciar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -38,6 +39,28 @@ O Rocket.Q é uma aplicação de interação através de perguntas, sendo possí
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/vp3iFfd1ohCbHyDX9jCiQi/Roquet.q). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+## :gear: Como Iniciar
+
+Para iniciar o projeto faça um clone do repositório:
+
+```
+  git clone https://github.com/guiribeirodev/nlw06-discover.git
+```
+
+Entre no diretório criado pelo git `nlw06-discover`.
+
+Digite:
+
+```
+  npm start
+```
+
+O projeto será aberto no localhost:5000, para acessar basta entrar no seu browser e digitar na barra de endereços:
+
+```
+  http://localhost:5000/
+```
 
 ## :memo: Licença
 
