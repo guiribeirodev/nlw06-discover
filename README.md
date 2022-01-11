@@ -50,7 +50,13 @@ Para iniciar o projeto faça um clone do repositório:
 
 Entre no diretório criado pelo git `nlw06-discover`.
 
-Digite:
+Digite para instalar as dependências:
+
+```
+  npm install
+```
+
+Digite para iniciar o projeto:
 
 ```
   npm start
